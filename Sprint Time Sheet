@@ -33,17 +33,19 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 11/08/24 | 6pm      | IM-    | Edited sort function so it changes graph   | 60          | 
 | 11/09/24 | 8:00pm   | TP-    | Tried to get lobby to work                 | 80 min| 
 | 11/10/24 | 4:00pm   | IM |  Spent time working on data transfer for graphs| 60 min |  
-| 11/06/24 | 2:00pm   | Mtg    | Class work mtg                             | 60 min
+| 11/06/24 | 2:00pm   | Mtg    | Class work mtg                             | 60 min      |
+|11/13/24  | 2:00PM   | TP-    | Spent time working together figuring out lobby| 60       |
 | 11/11/24 | 2:00pm   | MTG-   | Standard work day                           | 60min      |
 | 11/13/24 || 2:00pm   | MTG-   | Standard work day                           | 60min     |
-| 11/16/24 | 1:00pm   | IM-     | Data Sending research                     | 180min      | 
+| 11/16/24 | 1:00pm   | IM-     | Data Sending research                     | 240min      | 
+
 _Note: Add more rows as needed._ 
 
 ## Sprint Totals
 
 |Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |               10         |
+|TP - Team Project              |              4           |
+|MTG - Class Meetings           |            4             |
+|**TOTAL**                      |              18          |
